@@ -1,2 +1,2 @@
 # Computer-Vision-Factory
-Python scripts that demonstrate the usage of some functions of the computer vision library 'OpenCV'.
+Python scripts that demonstrate the usage of some functions in the computer vision library 'OpenCV'.
